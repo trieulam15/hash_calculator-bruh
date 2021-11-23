@@ -1,0 +1,10 @@
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe.config
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\bin\Debug\HashCalculator.pdb
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csprojAssemblyReference.cache
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.Form1.resources
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.Properties.Resources.resources
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.GenerateResource.cache
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.CoreCompileInputs.cache
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.exe
+D:\MINH TRIEU\VS Projects\HashCalculator\HashCalculator\obj\Debug\HashCalculator.pdb
